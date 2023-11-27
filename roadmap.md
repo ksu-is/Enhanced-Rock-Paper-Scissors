@@ -1,4 +1,4 @@
-RoadMap List for Travel planner
+RoadMap for Enhanced rock paper scissors
 
 
 1. Project Setup
