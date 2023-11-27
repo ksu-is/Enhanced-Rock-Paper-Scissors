@@ -1,3 +1,5 @@
+# test code for our game
+
 import random
 
 def get_user_choice():
