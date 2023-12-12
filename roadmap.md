@@ -5,9 +5,9 @@ RoadMap for Enhanced rock paper scissors.
 Set Up Your Development Environment:
 Install Python on your system if you haven't already.
 Create repository
-Create README
+Create README.
 
-3. Design and Planning
+3. Design and Planning.
 Understand the Game Logic:
 Familiarize yourself with the rules of Rock, Paper, Scissors.
 Identify Components:
