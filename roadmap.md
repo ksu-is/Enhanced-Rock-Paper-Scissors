@@ -1,4 +1,4 @@
-RoadMap for Enhanced rock paper scissors
+RoadMap for Enhanced rock paper scissors.
 
 
 1. Project Setup
